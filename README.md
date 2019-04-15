@@ -1,2 +1,5 @@
-# Atividadereprograma1
-Atividade da turma de back end, estou criando esse repositório desesperadamente porque a hora limite tá chegando e o Gmail não me ajuda 
+-Projeto da primeira semana da turma Backend {reprograma}
+-O conteudo do projeto foi baseado nos conceitos aprendidos que sao: 
+   -Uso da estutura basica do html;
+   -Uso do css e bootstrap;
+   -Uso do git e github.

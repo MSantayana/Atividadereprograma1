@@ -1,0 +1,9 @@
+$('nav a').click(function(e){
+    e.preventDefault();
+    var id = $(this).attr('href'),
+        targetOffet = $(id).offset().top;
+
+    $('html, body').animate({
+        scrolltop: targetOffet
+    }, 500);   
+});
